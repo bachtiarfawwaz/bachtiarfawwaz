@@ -85,6 +85,9 @@
 </div>
 
 ###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarfawwaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph-dark.svg">
