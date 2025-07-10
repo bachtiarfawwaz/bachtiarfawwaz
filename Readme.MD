@@ -1,19 +1,13 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ahmadbachtiarfawwaz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bachtiarfawwaz.bachtiarfawwaz&"  />
 </div>
 
 ###
