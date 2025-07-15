@@ -73,22 +73,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
-
+### 🔥 My Stats
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bachtiarfawwaz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 ###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=bachtiarfawwaz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarfawwaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="220" alt="top languages" />
 </div>
 
 ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarfawwaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-###
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph.svg">
