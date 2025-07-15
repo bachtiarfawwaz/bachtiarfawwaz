@@ -73,14 +73,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
-### 🔥 My Stats
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bachtiarfawwaz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 ###
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarfawwaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="220" alt="top languages" />
 </div>
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph-dark.svg">
