@@ -73,14 +73,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
-###
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarfawwaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="220" alt="top languages" />
 </div>
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bachtiarfawwaz/bachtiarfawwaz/output/pacman-contribution-graph.svg">
 </picture>
-
-###
