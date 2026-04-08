@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ahmad Bachtiar Fawwaz from Indonesia<br>- 📚 I’m currently study at Muhammadiyah Univerisity of Magelang</p>
+<p align="left">I'm Ahmad Bachtiar Fawwaz from Indonesia<br>I’m currently study at Muhammadiyah Univerisity of Magelang</p>
 
 ###
 
